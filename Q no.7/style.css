@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.box {
+    width: 300px;
+    background-color: lightblue;
+
+    padding: 30px;       /* inside space */
+    border: 5px solid blue;
+    margin: 40px;        /* outside space */
+
+    font-size: 16px;
+}
