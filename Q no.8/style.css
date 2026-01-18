@@ -1,0 +1,8 @@
+a:hover {
+    color: red;
+}
+
+button:hover {
+    background-color: green;
+    color: white;
+}
